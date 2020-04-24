@@ -68,14 +68,7 @@ body {
 }
 
 .nav-1:hover {
-    width: 100%;
-    display: block;
     color: #b7e7ff;
-    text-align: left;
-    padding: 1em;
-    text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
 }
 
 .nav-2 {
@@ -101,7 +94,7 @@ body {
 }
 
 .nav-2:hover {
-    color: #b7e7ff
+    color: #b7e7ff;
 }
 
 .nav-3 {
@@ -117,19 +110,19 @@ body {
 
 .sec-left {
     width: 16.6%;
-    background-color: #b7e7ff;
+
     height: 400px;
 }
 
 .sec-right {
     width: 16.6%;
-    background-color: #b7e7ff;
+ 
     height: 400px;
 }
 
 .sec-6 {
     width: 33.3%;
-    background-color: #b7e7ff;
+    
     height: 400px;
     display: block;
     color: black;
@@ -143,7 +136,7 @@ body {
 
 .sec-3 {
     width: 16.6%;
-    background-color: #b7e7ff;
+
     height: 400px;
     padding: 1em;
     padding-top: 200px;
@@ -154,7 +147,7 @@ body {
     border: 0.5px solid black;
     color: black;
     font-weight: bold;
-    background-color: #b7e7ff;
+
 }
 
 .col-1 {
@@ -163,7 +156,7 @@ body {
 
 .col-2 {
     width: 16.66%;
-    background-color: #b7e7ff;
+ 
 }
 
 .col-3 {
@@ -172,7 +165,7 @@ body {
 
 .col-4 {
     width: 33.33%;
-    background-color: #b7e7ff;
+
     height: 400px;
     padding: 1em;
 }
@@ -207,7 +200,7 @@ body {
 
 .col-12 {
     width: 100%;
-    background-color: #b7e7ff;
+
     font-weight: bold;
 }
 
@@ -227,3 +220,90 @@ body {
 }
 
 /* Blog page css below */
+
+.rowblog {
+    width: 100%;
+    margin-bottom: 0px;
+    display: flex;
+    background-color: #fdc2bc;
+}
+
+.rowblog-s1 {
+    width: 100%;
+    margin-bottom: 0px;
+    display: flex;
+    background-color: #ebbcdb;
+}
+
+.blog-link {
+    color: black;
+    text-align: left;
+    
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+/* Sprint Blogs Nav */
+
+.nav-1-sb {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-1-sb:hover {
+    color: #fdc2bc;
+}
+
+.nav-2-sb {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-2-sb:hover {
+    color: #fdc2bc;
+}
+
+/* Sprint 1 Nav */
+
+.nav-1-sb-1 {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-1-sb-1:hover {
+    color: #ebbcdb;
+}
+
+.nav-2-sb-1 {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-2-sb-1:hover {
+    color: #ebbcdb;
+}
