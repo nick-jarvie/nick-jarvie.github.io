@@ -1,6 +1,8 @@
+/* Testing 
 * {
     border: 0.25px solid cyan !important;
 }
+*/
 
 * {
     -webkit-box-sizing: border-box;
@@ -132,6 +134,9 @@ body {
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+    position: relative;
+    height: auto;
+    min-height: 100% !important;
 }
 
 .sec-3 {
@@ -140,6 +145,9 @@ body {
     height: 400px;
     padding: 1em;
     padding-top: 200px;
+    position: relative;
+    height: auto;
+    min-height: 100% !important;
 }
 
 .rule1 {
@@ -168,6 +176,9 @@ body {
 
     height: 400px;
     padding: 1em;
+    position: relative;
+    height: auto;
+    min-height: 100% !important;
 }
 
 .col-5 {
@@ -233,6 +244,13 @@ body {
     margin-bottom: 0px;
     display: flex;
     background-color: #ebbcdb;
+}
+
+.rowblog-s2 {
+    width: 100%;
+    margin-bottom: 0px;
+    display: flex;
+    background-color: #b7e7cb;
 }
 
 .blog-link {
@@ -306,4 +324,50 @@ body {
 
 .nav-2-sb-1:hover {
     color: #ebbcdb;
+}
+
+/* Sprint 2 Nav */
+
+.nav-1-sb-2 {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-1-sb-2:hover {
+    color: #b7e7cb;
+}
+
+.nav-2-sb-2 {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-2-sb-2:hover {
+    color: #b7e7cb;
+}
+
+.sec-6-image {
+    width: 33.3%;
+    
+    height: 400px;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
