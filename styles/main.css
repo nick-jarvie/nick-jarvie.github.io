@@ -255,6 +255,18 @@ body {
     padding: 1em;
 }
 
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
+
+.example-img {
+    max-width: 400px;
+    min-width: 200px;        
+    /*border: 1px solid black;*/
+}
+
 /* Blog page css below */
 
 .rowblog {
