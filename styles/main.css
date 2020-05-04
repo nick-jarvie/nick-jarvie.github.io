@@ -297,13 +297,24 @@ img{
     background-color: #eee89c;
 }
 
+.rowblog-s4 {
+    width: 100%;
+    margin-bottom: 0px;
+    display: flex;
+    background-color: #f6cda7;
+}
+
 .blog-link {
     color: black;
     text-align: left;
-    
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+}
+
+.blog-link:hover {
+    color: black;
+    background-color: white;
 }
 
 /* Sprint Blogs Nav */
@@ -451,3 +462,34 @@ img{
     color: #eee89c;
 }
 
+/* Sprint 4 Nav */
+
+.nav-1-sb-4 {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-1-sb-4:hover {
+    color: #f6cda7;
+}
+
+.nav-2-sb-4 {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-2-sb-4:hover {
+    color: #f6cda7;
+}
