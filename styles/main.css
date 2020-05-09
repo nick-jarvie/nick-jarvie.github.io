@@ -301,7 +301,7 @@ img{
     width: 100%;
     margin-bottom: 0px;
     display: flex;
-    background-color: #f6cda7;
+    background-color: #f6c293;
 }
 
 .blog-link {
@@ -476,7 +476,7 @@ img{
 }
 
 .nav-1-sb-4:hover {
-    color: #f6cda7;
+    color: #f6c293;
 }
 
 .nav-2-sb-4 {
@@ -491,5 +491,5 @@ img{
 }
 
 .nav-2-sb-4:hover {
-    color: #f6cda7;
+    color: #f6c293;
 }
