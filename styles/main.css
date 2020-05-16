@@ -304,6 +304,13 @@ img{
     background-color: #f6c293;
 }
 
+.rowblog-s5 {
+    width: 100%;
+    margin-bottom: 0px;
+    display: flex;
+    background-color: #b4c9ff;
+}
+
 .blog-link {
     color: black;
     text-align: left;
@@ -492,4 +499,36 @@ img{
 
 .nav-2-sb-4:hover {
     color: #f6c293;
+}
+
+/* Sprint 5 Nav */
+
+.nav-1-sb-5 {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-1-sb-5:hover {
+    color: #b4c9ff;
+}
+
+.nav-2-sb-5 {
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.nav-2-sb-5:hover {
+    color: #b4c9ff;
 }
